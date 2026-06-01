@@ -2,7 +2,6 @@
 
 # 🏠 Home Lab – Windows Server, Active Directory, Windows 11 & Linux Integration
 
-### VMware Workstation Enterprise Lab Simulation
 
 ![Domain](https://img.shields.io/badge/Domain-BIKSEC.com-blue?style=for-the-badge)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Windows%20%26%20Linux-green?style=for-the-badge)
