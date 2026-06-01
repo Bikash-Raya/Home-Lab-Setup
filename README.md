@@ -159,7 +159,7 @@ The lab simulates a small internal network consisting of:
 
 | File                | Description                    |
 | ------------------- | ------------------------------ |
-| Home-Lab-Report.pdf | Complete project documentation |
+| [Home-Lab-Report.pdf](https://github.com/Bikash-Raya/Home-Lab-Setup/blob/main/Home-Lab-Report.pdf) | Complete project documentation |
 | README.md           | Project overview               |
 
 ---
