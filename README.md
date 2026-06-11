@@ -21,6 +21,15 @@
 
 ---
 
+## 📁 Repository Structure
+
+| File                | Description                    |
+| ------------------- | ------------------------------ |
+| [Home-Lab-Report.pdf](https://github.com/Bikash-Raya/Home-Lab-Setup/blob/main/Home-Lab-Report.pdf) | Complete project documentation |
+| [Lab Screenshots.pdf](https://github.com/Bikash-Raya/Home-Lab-Setup/blob/main/Lab%20Screenshots.pdf) | Screenshots |
+| README.md           | Project overview               |
+
+---
 ## 📋 Overview
 
 This repository documents the design and implementation of a home lab environment built using VMware Workstation.
@@ -151,16 +160,6 @@ The lab simulates a small internal network consisting of:
 * Firewall Management
 * Domain-Based Authentication
 * Cross-Platform Connectivity Testing
-
----
-
-## 📁 Repository Structure
-
-| File                | Description                    |
-| ------------------- | ------------------------------ |
-| [Home-Lab-Report.pdf](https://github.com/Bikash-Raya/Home-Lab-Setup/blob/main/Home-Lab-Report.pdf) | Complete project documentation |
-| [Lab Screenshots.pdf](https://github.com/Bikash-Raya/Home-Lab-Setup/blob/main/Lab%20Screenshots.pdf) | Screenshots |
-| README.md           | Project overview               |
 
 ---
 
